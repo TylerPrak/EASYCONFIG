@@ -1,0 +1,8 @@
+alias gf='cd ~/Src'
+alias gs='git status'
+alias gc='git commit -m'
+alias ga='git add .'
+alias gp='git push'
+alias installbashrc='source ~/.bashrc'
+alias ca='vim ~/.bashrc'
+alias sagent='eval $(ssh-agent -s)'
