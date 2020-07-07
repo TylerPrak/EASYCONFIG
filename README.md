@@ -5,4 +5,4 @@
 
 1. ``git clone https://github.com/TylerPrak/EASYCONFIG.git``
 
-2. Add any configuration of your choice using ``cat <config file> >> <your config file>``
+2. Add any configuration of your choice using ``cat EASYCONFIG/<config file> >> <path to your config file>``
